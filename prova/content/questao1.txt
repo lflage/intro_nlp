@@ -1,0 +1,14 @@
+
+01_Welcome_to_Republic_City
+Número de Tokens: 12308
+Número de types: 2049
+
+50_The_Last_Stand_
+Número de Tokens: 7961
+Número de types: 1635
+
+01_Welcome_to_Republic_City
+Diversidade Lexical: 0.166
+
+50_The_Last_Stand_
+Diversidade Lexical: 0.205

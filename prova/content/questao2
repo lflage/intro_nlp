@@ -1,0 +1,116 @@
+
+01_Welcome_to_Republic_City
+token: ,		 freq: 608
+token: the		 freq: 591
+token: .		 freq: 551
+token: to		 freq: 415
+token: a		 freq: 300
+token: of		 freq: 283
+token: Korra		 freq: 250
+token: [		 freq: 246
+token: .]		 freq: 244
+token: and		 freq: 224
+token: her		 freq: 206
+token: '		 freq: 183
+token: in		 freq: 146
+token: as		 freq: 113
+token: up		 freq: 104
+token: Cut		 freq: 99
+token: shot		 freq: 97
+token: s		 freq: 91
+token: on		 freq: 87
+token: his		 freq: 86
+token: I		 freq: 85
+token: you		 freq: 84
+token: Naga		 freq: 81
+token: Tenzin		 freq: 75
+token: The		 freq: 72
+token: at		 freq: 71
+token: with		 freq: 71
+token: !		 freq: 67
+token: -		 freq: 64
+token: is		 freq: 61
+token: she		 freq: 60
+token: back		 freq: 60
+token: it		 freq: 59
+token: ?		 freq: 59
+token: an		 freq: 52
+token: from		 freq: 49
+token: who		 freq: 46
+token: down		 freq: 45
+token: out		 freq: 43
+token: over		 freq: 39
+token: Katara		 freq: 39
+token: ;		 freq: 37
+token: toward		 freq: 36
+token: head		 freq: 35
+token: camera		 freq: 34
+token: me		 freq: 33
+token: view		 freq: 32
+token: re		 freq: 32
+token: Lin		 freq: 32
+token: one		 freq: 31
+
+50_The_Last_Stand_
+token: the		 freq: 463
+token: ,		 freq: 344
+token: .		 freq: 334
+token: to		 freq: 272
+token: and		 freq: 186
+token: of		 freq: 166
+token: a		 freq: 164
+token: [		 freq: 130
+token: .]		 freq: 127
+token: '		 freq: 119
+token: Korra		 freq: 106
+token: her		 freq: 93
+token: Kuvira		 freq: 91
+token: I		 freq: 88
+token: as		 freq: 88
+token: in		 freq: 66
+token: at		 freq: 64
+token: Mako		 freq: 60
+token: s		 freq: 54
+token: his		 freq: 54
+token: up		 freq: 53
+token: you		 freq: 53
+token: on		 freq: 52
+token: !		 freq: 51
+token: it		 freq: 46
+token: The		 freq: 44
+token: shot		 freq: 44
+token: with		 freq: 43
+token: Cut		 freq: 43
+token: -		 freq: 42
+token: Bolin		 freq: 42
+token: down		 freq: 41
+token: back		 freq: 37
+token: she		 freq: 35
+token: is		 freq: 34
+token: As		 freq: 34
+token: from		 freq: 33
+token: ;		 freq: 33
+token: into		 freq: 32
+token: around		 freq: 31
+token: them		 freq: 28
+token: ?		 freq: 25
+token: mecha		 freq: 24
+token: before		 freq: 23
+token: looks		 freq: 23
+token: arm		 freq: 22
+token: cuts		 freq: 22
+token: out		 freq: 21
+token: Varrick		 freq: 21
+token: t		 freq: 21
+
+
+
+
+
+2. b)
+Types comuns a ambos os textos:
+her and ! you it of in back I she [ ' is s from ? The Korra as at down ; to his with - up . the a on , out shot Cut .]
+Types exclusivos do texto 1:
+one head view toward Tenzin Katara re me camera who over an Naga Lin
+Types exclusivos do texto 2:
+mecha t As Kuvira Bolin into before cuts arm them around Mako Varrick looks
